@@ -1,0 +1,6 @@
+langchain
+fastapi
+uvicorn[standard]
+tiktoken
+python-multipart
+qdrant-client
